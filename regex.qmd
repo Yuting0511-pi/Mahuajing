@@ -93,7 +93,7 @@ example_df['text'].str.contains(r'\d+')
 
 example_df['text'].str.count(r'\d+')
 ```
-
+test
 
 ```{python}
 import pandas as pd
